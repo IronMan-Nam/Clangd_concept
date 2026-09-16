@@ -1,0 +1,11 @@
+CompileFlags:
+
+  Add:
+    - -mthumb
+    - -std=c90
+
+    - -Isrc
+
+
+Diagnostics:
+  UnusedIncludes: Strict
