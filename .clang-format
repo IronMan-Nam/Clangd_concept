@@ -32,7 +32,7 @@ AlignConsecutiveDeclarations: false
 AlignConsecutiveMacros: true
 
 # Switch-case formatting
-IndentCaseLabels: true
+IndentCaseLabels: false
 
 # Macros
 IndentPPDirectives: None
